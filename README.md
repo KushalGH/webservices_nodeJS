@@ -38,7 +38,8 @@ Oh yeah, I am using Ubuntu. So, please check the documentation for for other OS.
 
 
 	### STEP 5: Let's discuss the code [http://expressjs.com/en/guide/writing-middleware.html]
-		- ![picture](images/initial_code.png)
+
+![picture](images/initial_code.png)
 
 	### EXPRESS JS DOCUMENTATION
 		- https://expressjs.com/en/guide/writing-middleware.html
